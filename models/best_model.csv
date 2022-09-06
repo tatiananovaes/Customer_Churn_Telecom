@@ -1,0 +1,2 @@
+,Nome,Algoritmo,ROC_AUC Score,AUC Score,Acurácia
+0,modelo_v2,Random Forest,0.7187670156420156,0.794169512919513,0.8428314337132573
