@@ -31,30 +31,40 @@ O projeto foi executado por meio da linguagem Python no Jupyter Notebook. As bib
 
 4- Acessar a app no navegador
 
+
 ---
+
 # _Customer Churn Forecast in Telecom Operators_
 _The objective of this project is to predict Customer Churn in a Telecom Operator._
+
 _Customer Churn refers to a decision made by the customer about ending the business relationship; it also refers to the loss of customers. Customer loyalty and customer churn always add up to 100%. Therefore, it is very important for a company to predict the users who are likely to leave the business relationship and the factors that affect those decisions._
-_The proposal then, is to create a machine learning model that can predict whether or not a customer will cancel their plan and how likely it is to do so. Both exploratory analysis and model training were done with Jupyter Notebook; then, with the trained model, an interface was created with Streamlit (Web App) for the prediction of customer churn from data informed by the user in an interactive way._  
+
+_The proposal then, is to create a machine learning model that can predict whether or not a customer will cancel their plan and how likely it is to do so. Both exploratory analysis and model training were done with Jupyter Notebook; then, with the trained model, an interface was created with Streamlit (Web App) for the prediction of customer churn from data informed by the user in an interactive way._ 
+ 
 _The project is part of the Data Scientist Training, offered by Data Science Academy._
 
 
 ## _Data_
-_Training and test datasets were provided by Data Science Academy, in separate files (csv). 
+_Training and test datasets were provided by Data Science Academy, in separate files (csv)._
 
 
 ## _Dependencies_
 _The project was run using the Python language in Jupyter Notebook. The libraries used were Numpy, Pandas, Seaborn, Matplotlib, Scipy, Scikit-learn, Pyarrow, Joblib, Pickle, Imblearn, and XGBoost, plus Streamlit. The versions used are in the requirements.txt file._
 
 
-## _To run the app in Stremlit_:
+## _To run the app in Streamlit_:
 _1- Have Anaconda Python installed_
+
 _2- Run: pip install -r requirements.txt_
+
 _3- Run: streamlit run app.py_
+
 _4- Access the app in the browser_
 
 
+
 ---
+
 
 ## Dicionário de Dados // _Data Dictionary_
 
