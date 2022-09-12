@@ -22,7 +22,7 @@ Os datasets de treino e de teste foram fornecidos pela Data Science Academy, em 
 O projeto foi executado por meio da linguagem Python no Jupyter Notebook. As bibliotecas utilizadas foram Numpy, Pandas, Seaborn, Matplotlib, Scipy, Scikit-learn, Pyarrow, Joblib, Pickle, Imblearn e XGBoost, além do Streamlit. As versöes utilizadas constam do arquivo requirements.txt.
 
 
-## Para executar a app no Stremlit:
+## Para executar a app no Streamlit:
 1- Ter o Anaconda Python instalado
 
 2- Executar: pip install -r requirements.txt
